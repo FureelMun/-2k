@@ -1,0 +1,17 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\bin\Debug\net6.0\TimeDay.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\bin\Debug\net6.0\TimeDay.deps.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\bin\Debug\net6.0\TimeDay.runtimeconfig.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\bin\Debug\net6.0\TimeDay.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\bin\Debug\net6.0\TimeDay.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.AssemblyInfoInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.AssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\refint\TimeDay.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.genruntimeconfig.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\ref\TimeDay.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.csproj.AssemblyReference.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Ежедневник\TimeDay\TimeDay\obj\Debug\net6.0\TimeDay.csproj.CopyComplete
