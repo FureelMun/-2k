@@ -1,0 +1,85 @@
+﻿ConsoleKeyInfo txt = Console.ReadKey(true);
+
+int oct = 1;
+int oct_is = 1;
+List<int[]> Octavs = new List<int[]> { new int[] { 327, 367, 412, 435, 490, 550, 617 } };
+for (int y = 0; y < 8; y++)
+{
+    var korobka = new int[7];
+    for (int x = 0; x < 7; x++)
+    {
+        if (Octavs[y][x] * 2 > 32767)
+        {
+            korobka[x] = 32767;
+        }
+        else
+        {
+
+            korobka[x] = Octavs[y][x] * 2;
+        }
+    }
+    Octavs.Add(korobka);
+    Console.WriteLine(" ");
+}
+
+
+while (true)
+{
+    oct = Is_oct(oct);
+    song();
+}
+
+int Is_oct(int oct_is)
+{
+    if (txt.Key == ConsoleKey.RightArrow)
+    {
+        if (oct_is >= 1)
+        {
+            oct_is -= 1;
+            Console.WriteLine(oct_is);
+        }
+    }
+    if (txt.Key == ConsoleKey.LeftArrow)
+    {
+        if (oct_is <= 8)
+        {
+            oct_is += 1;
+            Console.WriteLine(oct_is);
+        }
+    }
+    return oct_is;
+}
+
+void song()
+{
+    switch (txt.Key)
+    {
+        case ConsoleKey.Z:
+            Console.Beep(Octavs[oct][0], 500);
+            break;
+
+        case ConsoleKey.X:
+            Console.Beep(Octavs[oct][1], 500);
+            break;
+        case ConsoleKey.C:
+            Console.Beep(Octavs[oct][2], 500);
+            break;
+        case ConsoleKey.V:
+            Console.Beep(Octavs[oct][3], 500);
+            break;
+        case ConsoleKey.B:
+            Console.Beep(Octavs[oct][4], 500);
+            break;
+        case ConsoleKey.N:
+            Console.Beep(Octavs[oct][5], 500);
+            break;
+        case ConsoleKey.M:
+            Console.Beep(Octavs[oct][6], 500);
+            break;
+
+        default:
+            break;
+
+    }
+    txt = Console.ReadKey(true);
+}
