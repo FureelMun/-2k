@@ -1,0 +1,14 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\bin\Debug\net6.0\tortiki.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\bin\Debug\net6.0\tortiki.deps.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\bin\Debug\net6.0\tortiki.runtimeconfig.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\bin\Debug\net6.0\tortiki.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\bin\Debug\net6.0\tortiki.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.AssemblyInfoInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.AssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\refint\tortiki.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\tortiki.genruntimeconfig.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Тортики\tortiki\tortiki\obj\Debug\net6.0\ref\tortiki.dll
